@@ -1,0 +1,14 @@
+{
+  "name": "artemis-systemjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "browser-sync start --directory --server --files '*.js, *.html, *.css'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.14.0"
+  }
+}
